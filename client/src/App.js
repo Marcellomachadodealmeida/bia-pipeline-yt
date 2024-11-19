@@ -100,7 +100,7 @@ function App() {
                   onToggle={toggleReminder}
                 />
               ) : (
-                "Nenhuma tarefa cadastrada ate agora"
+                "Pronto para receber novas tarefas"
               )}
             </>
           )}
